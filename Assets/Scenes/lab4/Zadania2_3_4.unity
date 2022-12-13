@@ -14060,6 +14060,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1446873686}
+    - target: {fileID: 3846761364747158513, guid: 9b65bec28f26a39429008d66a1e79fca, type: 3}
+      propertyPath: sensitivity
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 3994645730314863667, guid: 9b65bec28f26a39429008d66a1e79fca, type: 3}
       propertyPath: m_Name
       value: Player
@@ -14113,7 +14117,15 @@ PrefabInstance:
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6134813317568231178, guid: 9b65bec28f26a39429008d66a1e79fca, type: 3}
+      propertyPath: gravity
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134813317568231178, guid: 9b65bec28f26a39429008d66a1e79fca, type: 3}
       propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6134813317568231178, guid: 9b65bec28f26a39429008d66a1e79fca, type: 3}
+      propertyPath: jumpHeight
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
