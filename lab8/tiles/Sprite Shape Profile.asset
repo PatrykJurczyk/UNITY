@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af7181f404f1447c0a7a17b3070b952b, type: 3}
+  m_Name: Sprite Shape Profile
+  m_EditorClassIdentifier: 
+  m_Angles:
+  - m_Start: -45
+    m_End: 45
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: a6a94d012bc8fad489dadb1c68073fea, type: 3}
+  - m_Start: -125
+    m_End: -45
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: 352b17e9a65ac2f408dd0ddc71a0752e, type: 3}
+  - m_Start: 45
+    m_End: 125
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: 41970af66b1213747b753cf7ef9fbf89, type: 3}
+  - m_Start: 125
+    m_End: 235
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: a9bc34e47aed5df4ab624be47dbb11ce, type: 3}
+  m_FillTexture: {fileID: 2800000, guid: af50c36db3d867a49afbc09f16d37251, type: 3}
+  m_CornerSprites:
+  - m_CornerType: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: b301d8c0c1692ee409efab3e12cfdefb, type: 3}
+  - m_CornerType: 1
+    m_Sprites:
+    - {fileID: 21300000, guid: dcf044be0445b1443bc15433b2517ca7, type: 3}
+  - m_CornerType: 2
+    m_Sprites:
+    - {fileID: 21300000, guid: 99a8fc573e1a31a42b6b84e9504841a2, type: 3}
+  - m_CornerType: 3
+    m_Sprites:
+    - {fileID: 21300000, guid: a9bc34e47aed5df4ab624be47dbb11ce, type: 3}
+  - m_CornerType: 4
+    m_Sprites:
+    - {fileID: 21300000, guid: a36e613bbc20db64f8c2f6941b9ee058, type: 3}
+  - m_CornerType: 5
+    m_Sprites:
+    - {fileID: 21300000, guid: 741b842b78e48bc45936471dae20ea2a, type: 3}
+  - m_CornerType: 6
+    m_Sprites:
+    - {fileID: 21300000, guid: df7871bbf77e6aa4c91b8ad2ac237162, type: 3}
+  - m_CornerType: 7
+    m_Sprites:
+    - {fileID: 21300000, guid: b784adbfee0feb74cb56f3ddc7072a6d, type: 3}
+  m_FillOffset: 0
+  m_UseSpriteBorders: 1
